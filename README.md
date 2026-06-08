@@ -30,12 +30,12 @@
 
 **调用格式：**
 ```
-https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{频道名}.png
+https://raw.githubusercontent.com/vevechen/MYIPTV/refs/heads/main/logo/{频道名}.png
 ```
 
 **调用示例：**
-- 央视一套 → `https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV1.png`
-- 湖南卫视 → `https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/湖南卫视.png`
+- 央视一套 → `https://raw.githubusercontent.com/vevechen/MYIPTV/refs/heads/main/logo/CCTV1.png`
+- 湖南卫视 → `https://raw.githubusercontent.com/vevechen/MYIPTV/refs/heads/main/logo/湖南卫视.png`
 
 **覆盖范围：** 央视全频道、省级卫视、主流地方频道、数字付费频道、特色网络频道等。
 
